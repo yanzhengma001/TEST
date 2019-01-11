@@ -27,7 +27,7 @@
 打开开关-》输入文本-》加密方式选rc4-md5
 打开重新定向dns开关。输入8.8.8.8
 
-![hell](https://github.com/yanzhengma001/TEST/blob/master/3.jpg)
+![hell](https://github.com/yanzhengma001/TEST/blob/master/00.jpg)
 
 
 
